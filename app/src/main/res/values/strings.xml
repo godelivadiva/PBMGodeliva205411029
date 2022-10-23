@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pet Care</string>
+    <string name="welcome">Welcome to Pet Care</string>
+    <string name="pet_detail">Pet</string>
+    <string name="default_pet_name">Pet Name</string>
+
+    <!-- drawable source link-->
+    <!-- apps icon: https://img.freepik.com/free-vector/pet-logo-design-paw-vector-animal-shop-business_53876-136741.jpg?w=2000-->
+    <!-- dog_cat_bg : -->
+    <!-- pawprints_bg : https://media.istockphoto.com/vectors/seamless-pattern-pawprints-and-hearts-vector-id1157608565?k=20&m=1157608565&s=612x612&w=0&h=OSdAxr9ujJpYNi4afEA5oisynntQHWHY5x4MQISysIw=-->
+</resources>
